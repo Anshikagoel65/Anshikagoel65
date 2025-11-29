@@ -1,5 +1,4 @@
-# Hi there,
-# I'm Anshika Goel 👋  
+# Hi there, I'm Anshika Goel 👋  
 ### MERN Stack Developer | Java Programmer | DSA Learner
 
 💡 Passionate about building scalable web apps, real-time systems, and solving complex problems using Data Structures & Algorithms.  
